@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5798635057512294652
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4513644035605740101, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_TagString
+      value: DownRoom
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644035943592926, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_Name
+      value: Room_1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644035947050993, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_Name
+      value: RoomDoor_1.2.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644035947050993, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_TagString
+      value: LeftRoom_1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644036001275174, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_Name
+      value: RoomDoor_1.2.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644036001275174, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_TagString
+      value: UpRoom
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644036271874717, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_Name
+      value: RoomDoor_1.5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644036271874717, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_TagString
+      value: LeftRoom_1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644036522557992, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_Name
+      value: RoomDoor_1.5.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644036522557992, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_TagString
+      value: LeftRoom_1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037083185589, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037126347255, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.2537208
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037126347255, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.898
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037294593812, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_Name
+      value: Room_1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalScale.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.03933515
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473132, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037432473133, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_Name
+      value: LeftRoom_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037499943028, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.266318
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513644037499943028, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.3372
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a4d53ac71271baf43acc5b3e62820d64, type: 3}
